@@ -1,0 +1,1 @@
+Java JNDI API for libgingle c++ code.
